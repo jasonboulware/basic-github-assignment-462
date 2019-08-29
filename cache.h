@@ -2,7 +2,7 @@
 // CSCI 340 - Operating Systems
 // Fall 2016
 // web.h header file
-// 
+
 // Homework 3
 //
 // -----------------------------------
